@@ -1,0 +1,9 @@
+🎶 解锁 = ss, music.desperadoj.com, 30001, aes-128-gcm, desperadoj.com_free_proxy_d39m, udp-relay=false
+
+
+🎵 网易云音乐 = select, 🎶 解锁, DIRECT
+
+
+
+# Netease Music
+RULE-SET,https://cdn.staticaly.com/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Surfboard/RuleSet/NeteaseMusic.list,🎵 网易云音乐
