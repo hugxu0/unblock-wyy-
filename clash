@@ -10,7 +10,7 @@ proxy-groups:
   - name: 🎵 解锁小云
     type: select
     proxies:
-      - 解小灰
+      - 解小云
       - DIRECT
       
      
